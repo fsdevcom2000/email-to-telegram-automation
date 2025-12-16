@@ -133,7 +133,7 @@ This project automates the processing of emails from a specific sender in Micros
 
 `C:\Temp\run.bat`
 
-2. Логи сохраняются в `C:\Temp\autolog.txt`.
+2. Логи сохраняются в `C:\Temp\auto_log.txt`.
     
 3. Если Outlook не запущен, отправляется уведомление в Telegram вместо обработки писем.
     
